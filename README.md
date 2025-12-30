@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Engineering Mathematics Portfolio</title>
+  <title>Mathmetics Portfolio</title>
 
   <style>
     body {
