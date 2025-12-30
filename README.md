@@ -73,7 +73,7 @@
 <section>
   <h2>Student Details</h2>
   <ul>
-    <li><strong>Name:</strong> Chetana</li>
+    <li><strong>Name:</strong> Chetana Hiremath</li>
     <li><strong>Semester:</strong> ___</li>
     <li><strong>Subject:</strong> Engineering Mathematics</li>
     <li><strong>Topic:</strong> Probability and Statistics</li>
