@@ -1,35 +1,114 @@
-# Engineering Mathematics Portfolio  
-## Probability and Statistics
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Engineering Mathematics Portfolio</title>
 
-This repository contains my semester portfolio for the subject
-**Engineering Mathematics – Probability and Statistics**.
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f6f8;
+      line-height: 1.6;
+    }
 
-The portfolio is created as a website using **HTML** and hosted using
-**GitHub Pages**.
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
 
----
+    section {
+      background-color: white;
+      margin: 20px;
+      padding: 20px;
+      border-radius: 6px;
+    }
 
-## 👩‍🎓 Student Details
-- Name: Chetana  
-- Semester: ___  
-- Subject: Engineering Mathematics  
-- Topic: Probability and Statistics  
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
 
----
+    ul {
+      margin-left: 20px;
+    }
 
-## 📂 Portfolio Contents
-- Home page with course overview
-- About the course
-- Unit 1: Description of Data
-- Unit 2: Probability
-- Unit 3: Statistical Inference
-- Unit 4: Random Variables and Probability Distribution
-- Learning Reflections
+    footer {
+      background-color: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
 
----
+    a {
+      color: #2980b9;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
 
-## 🌐 Live Website
-The portfolio is hosted using GitHub Pages.  
-(After enabling Pages, paste your live link here)
+<body>
 
-Example:
+<header>
+  <h1>Engineering Mathematics Portfolio</h1>
+  <h3>Probability and Statistics</h3>
+</header>
+
+<section>
+  <h2>About This Portfolio</h2>
+  <p>
+    This portfolio contains my semester work for the subject
+    <strong>Engineering Mathematics – Probability and Statistics</strong>.
+  </p>
+
+  <p>
+    The portfolio is created as a website using <strong>HTML</strong>
+    and hosted using <strong>GitHub Pages</strong>.
+  </p>
+</section>
+
+<section>
+  <h2>Student Details</h2>
+  <ul>
+    <li><strong>Name:</strong> Chetana</li>
+    <li><strong>Semester:</strong> ___</li>
+    <li><strong>Subject:</strong> Engineering Mathematics</li>
+    <li><strong>Topic:</strong> Probability and Statistics</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Portfolio Contents</h2>
+  <ul>
+    <li>Home page with course overview</li>
+    <li>About the course</li>
+    <li>Unit 1: Description of Data</li>
+    <li>Unit 2: Probability</li>
+    <li>Unit 3: Statistical Inference</li>
+    <li>Unit 4: Random Variables and Probability Distribution</li>
+    <li>Learning Reflections</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Live Website</h2>
+  <p>
+    The portfolio is hosted using GitHub Pages.
+  </p>
+  <p>
+    Live Link:
+    <br>
+    <a href="#">https://yourusername.github.io/maths-portfolio/</a>
+  </p>
+</section>
+
+<footer>
+  <p>© Engineering Mathematics Portfolio</p>
+</footer>
+
+</body>
+</html>
+
